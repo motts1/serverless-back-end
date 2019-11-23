@@ -1,4 +1,4 @@
-import { calculateCost } from "../libs/billing-lib";
+import { calculateCost } from "../libs/billings-lib";
 
 test("Lowest tier", () => {
   const storage = 10;
